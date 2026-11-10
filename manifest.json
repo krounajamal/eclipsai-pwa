@@ -1,0 +1,11 @@
+{
+  "name":"ECLIPSAI — AI Universe",
+  "short_name":"ECLIPSAI",
+  "description":"A multilingual AI tools platform.",
+  "start_url":"/eclipsai-pwa/",
+  "scope":"/eclipsai-pwa/",
+  "display":"standalone",
+  "background_color":"#080810",
+  "theme_color":"#09090f",
+  "icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

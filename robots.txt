@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://krounajamal.github.io/eclipsai-pwa/sitemap.xml
